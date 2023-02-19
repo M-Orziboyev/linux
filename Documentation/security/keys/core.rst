@@ -2,6 +2,8 @@
 Kernel Key Retention Service
 ============================
 
+-*- utf-8 -*-
+
 This service allows cryptographic keys, authentication tokens, cross-domain
 user mappings, and similar to be cached in the kernel for the use of
 filesystems and other kernel services.
